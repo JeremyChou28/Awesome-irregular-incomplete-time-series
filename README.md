@@ -10,13 +10,13 @@ This is the paper list on irregular time series forecasting.
 
 
 
-## Surveys
+## Related Surveys
 
-| Year | Venue | Title | Link |
-| ---- | ----- | ----- | ---- |
-|      |       |       |      |
-|      |       |       |      |
-|      |       |       |      |
+| Year | Venue                     | Title                                                        | Link                                                         |
+| ---- | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2024 | Arxiv                     | Deep Learning for Multivariate Time Series Imputation: A Survey | [[paper](https://arxiv.org/pdf/2402.04059)] [[code](https://github.com/wenjiedu/awesome_imputation)] |
+| 2022 | ACM Computing Surveys2022 | A Comprehensive Survey on Imputation of Missing Data in Internet of Things | [[paper](https://dl.acm.org/doi/pdf/10.1145/3533381)]        |
+|      |                           |                                                              |                                                              |
 
 ## Paper List
 
@@ -38,27 +38,27 @@ This is the paper list on irregular time series forecasting.
 
 ### Year 2022
 
-| Venue | Title | Link |
-| ----- | ----- | ---- |
-|       |       |      |
-|       |       |      |
-|       |       |      |
+| Venue | Title                                                        | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ICML  | Modeling Irregular Time Series with Continuous Recurrent Units | [[paper](https://proceedings.mlr.press/v162/schirmer22a/schirmer22a.pdf)] |
+|       |                                                              |                                                              |
+|       |                                                              |                                                              |
 
 ### Year 2021
 
-| Venue | Title | Link |
-| ----- | ----- | ---- |
-|       |       |      |
-|       |       |      |
-|       |       |      |
+| Venue   | Title                                                        | Link                                                         |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| NeurIPS | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation. | [[paper](https://arxiv.org/pdf/2107.03502)] [[code](https://github.com/ermongroup/csdi)] |
+|         |                                                              |                                                              |
+|         |                                                              |                                                              |
 
 ### Year 2020
 
-| Venue | Title | Link |
-| ----- | ----- | ---- |
-|       |       |      |
-|       |       |      |
-|       |       |      |
+| Venue | Title                                                        | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ICML  | Learning from Irregularly-Sampled Time Series: A Missing Data Perspective | [[paper](https://proceedings.mlr.press/v119/li20k/li20k.pdf)] [[code](https://github.com/steveli/partial-encoder-decoder)] |
+|       |                                                              |                                                              |
+|       |                                                              |                                                              |
 
 ### Year 2019
 
@@ -70,9 +70,9 @@ This is the paper list on irregular time series forecasting.
 
 ### Others
 
-| Year | Venue | Title | Link |
-| ---- | ----- | ----- | ---- |
-|      |       |       |      |
-|      |       |       |      |
-|      |       |       |      |
+| Year | Venue   | Title                                                     | Link                                                         |
+| ---- | ------- | --------------------------------------------------------- | ------------------------------------------------------------ |
+| 2018 | NeurIPS | BRITS: Bidirectional Recurrent Imputation for Time Series | [[paper](https://arxiv.org/abs/1805.10572)] [[code](https://github.com/caow13/BRITS)] |
+|      |         |                                                           |                                                              |
+|      |         |                                                           |                                                              |
 
