@@ -24,7 +24,7 @@ This is the paper list on irregular time series.
 | Arxiv |          Continuous Temporal Domain Generalization           |         [[paper](https://arxiv.org/pdf/2405.16075)]          |
 | Arxiv | Imputation with Inter-Series Information from Prototypes for Irregular Sampled Time Series | [[paper](https://arxiv.org/pdf/2401.07249)] [[code](https://github.com/yzhhoward/prime)] |
 | IJCAI |   Temporal Graph ODEs for Irregularly-Sampled Time Series    | [[paper](https://arxiv.org/pdf/2404.19508)] [[code](https://github.com/gravins/tg-ode)] |
-|  KDD  | Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network | [[paper](Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network)] |
+|  KDD  | Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network |         [[paper](https://arxiv.org/pdf/2308.16818)]          |
 | ICML  | Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach | [[paper](https://openreview.net/pdf?id=UZlMXUGI6e)] [[code](https://github.com/usail-hkust/t-PatchGNN)] |
 | ICLR  | Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data | [[paper](https://arxiv.org/pdf/2402.14989)] [[code](https://github.com/yongkyung-oh/stable-neural-sdes)] |
 | ICLR  | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values | [[paper](https://openreview.net/pdf?id=O9nZCwdGcG)] [[code](https://github.com/chenxiaodanhit/BiTGraph)] |
