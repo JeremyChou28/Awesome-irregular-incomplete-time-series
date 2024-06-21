@@ -14,7 +14,6 @@ Year|Venue|Title|Link
  2024 |         Arxiv         | Deep Learning for Multivariate Time Series Imputation: A Survey | [[paper](https://arxiv.org/pdf/2402.04059)] [[code](https://github.com/wenjiedu/awesome_imputation)] 
  2023 | Arxiv | Continuous time recurrent neural networks: overview and application to forecasting blood glucose in the intensive care unit | [[paper](https://arxiv.org/pdf/2304.07025)] 
  2022 | ACM Computing Surveys | A Comprehensive Survey on Imputation of Missing Data in Internet of Things |    [[paper](https://dl.acm.org/doi/pdf/10.1145/3533381)]     
-      |                       |                                                              |                                                              
 
 ## Paper List
 
@@ -38,7 +37,6 @@ Venue|Title|Link
  NeurIPS | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | [[paper](https://arxiv.org/pdf/2402.10635)] [[code](https://github.com/microsoft/SeqML/tree/main/ContiFormer)] 
   ICDM   | Compatible Transformer for Irregularly Sampled Multivariate Time Series | [[paper](https://arxiv.org/pdf/2310.11022)] [[code](https://github.com/mediabrain-sjtu/coformer)] 
          | Warpformer: A Multi-scale Modeling Approach for Irregular Clinical Time Series | [[paper](https://arxiv.org/pdf/2306.09368)] [[code](https://github.com/imjiawen/warpformer)] 
- | Learning from Irregularly-Sampled Time Series: A Missing Data Perspective | [[paper](https://arxiv.org/pdf/2008.07599)] [[code](https://github.com/steveli/partial-encoder-decoder)] 
  Arxiv | Modelling Irregularly Sampled Time Series Without Imputation | [[paper](https://arxiv.org/pdf/2309.08698)] 
 
 ### Year 2022
@@ -47,7 +45,6 @@ Venue|Title|Link
 :----:|:-----:|:-----:
  ICML  | Modeling Irregular Time Series with Continuous Recurrent Units | [[paper](https://proceedings.mlr.press/v162/schirmer22a/schirmer22a.pdf)] 
  ICLR | Graph-Guided Network for Irregularly Sampled Multivariate Time Series | [[paper](https://arxiv.org/pdf/2110.05357)] [[code](https://github.com/mims-harvard/Raindrop)] 
-       |                                                              |                                                              
 
 ### Year 2021
 
@@ -55,7 +52,7 @@ Venue|Title|Link
 :----:|:-----:|:-----:
  NeurIPS | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation. | [[paper](https://arxiv.org/pdf/2107.03502)] [[code](https://github.com/ermongroup/csdi)] 
  NeurIPS | Neural Flows: Efficient Alternative to Neural ODEs | [[paper](https://arxiv.org/pdf/2110.13040)] [[code](https://github.com/mbilos/neural-flows-experiments)] 
- ICLR | Multi-Time Attention Networks for Irregularly Sampled Time Series | [[paper](Multi-Time Attention Networks for Irregularly Sampled Time Series)] [[code](https://github.com/reml-lab/mTAN)] 
+ ICLR | Multi-Time Attention Networks for Irregularly Sampled Time Series | [[paper](https://github.com/reml-lab/mTAN)] [[code](https://github.com/reml-lab/mTAN)] 
 
 ### Year 2020
 
@@ -81,4 +78,3 @@ Year|Venue|Title|Link
 :-----:|:----:|:-----:|:-----:
  2018 | NeurIPS | BRITS: Bidirectional Recurrent Imputation for Time Series | [[paper](https://arxiv.org/abs/1805.10572)] [[code](https://github.com/caow13/BRITS)] 
  2018 | Scientific reports | Recurrent neural networks for multivariate time series with missing values | [[paper](https://www.nature.com/articles/s41598-018-24271-9)] [[code](https://github.com/zhiyongc/GRU-D)] 
-      |         |                                                           |                                                              
