@@ -10,9 +10,11 @@ This is the paper list on irregular time series.
 
 Year|Venue|Title|Link
 :-----:|:----:|:-----:|:-----:
-| 2024 |         Arxiv         | Deep Learning for Multivariate Time Series Imputation: A Survey | [[paper](https://arxiv.org/pdf/2402.04059)] [[code](https://github.com/wenjiedu/awesome_imputation)] |
-| 2022 | ACM Computing Surveys | A Comprehensive Survey on Imputation of Missing Data in Internet of Things |    [[paper](https://dl.acm.org/doi/pdf/10.1145/3533381)]     |
-|      |                       |                                                              |                                                              |
+2024|Arxiv|TSI-Bench: Benchmarking Time Series Imputation|[[paper](https://arxiv.org/pdf/2406.12747)] [[code](https://github.com/WenjieDu/Awesome_Imputation)]
+ 2024 |         Arxiv         | Deep Learning for Multivariate Time Series Imputation: A Survey | [[paper](https://arxiv.org/pdf/2402.04059)] [[code](https://github.com/wenjiedu/awesome_imputation)] 
+ 2023 | Arxiv | Continuous time recurrent neural networks: overview and application to forecasting blood glucose in the intensive care unit | [[paper](https://arxiv.org/pdf/2304.07025)] 
+ 2022 | ACM Computing Surveys | A Comprehensive Survey on Imputation of Missing Data in Internet of Things |    [[paper](https://dl.acm.org/doi/pdf/10.1145/3533381)]     
+      |                       |                                                              |                                                              
 
 ## Paper List
 
@@ -20,54 +22,63 @@ Year|Venue|Title|Link
 
 Venue|Title|Link
 :----:|:-----:|:-----:
-| WSDM  | Continuous-time Autoencoders for Regular and Irregular Time Series Imputation | [[paper](https://arxiv.org/pdf/2312.16581)] |
-|       |                                                              |                                             |
-|       |                                                              |                                             |
+ WSDM  | Continuous-time Autoencoders for Regular and Irregular Time Series Imputation | [[paper](https://arxiv.org/pdf/2312.16581)] 
+ Arxiv | Probabilistic Forecasting of Irregular Time Series via Conditional Flows | [[paper](https://arxiv.org/pdf/2402.06293)] 
+ Arxiv | Continuous Temporal Domain Generalization | [[paper](https://arxiv.org/pdf/2405.16075)] 
+ Arxiv | Imputation with Inter-Series Information from Prototypes for Irregular Sampled Time Series | [[paper](https://arxiv.org/pdf/2401.07249)] [[code](https://github.com/yzhhoward/prime)] 
+ IJCAI | Temporal Graph ODEs for Irregularly-Sampled Time Series | [[paper](https://arxiv.org/pdf/2404.19508)] [[code](https://github.com/gravins/tg-ode)] 
+ KDD | Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network | [[paper](Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network)] 
+ ICML | Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach | [[paper](https://openreview.net/pdf?id=UZlMXUGI6e)] [[code](https://github.com/usail-hkust/t-PatchGNN)] 
+  | Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data | [[paper](https://arxiv.org/pdf/2402.14989)] [[code](https://github.com/yongkyung-oh/stable-neural-sdes)] 
 
 ### Year 2023
 
 Venue|Title|Link
 :----:|:-----:|:-----:
-| NeurIPS | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | [[paper](https://arxiv.org/pdf/2402.10635)] [[code](https://github.com/microsoft/SeqML/tree/main/ContiFormer)] |
-|  ICDM   | Compatible Transformer for Irregularly Sampled Multivariate Time Series | [[paper](https://arxiv.org/pdf/2310.11022)] [[code](https://github.com/mediabrain-sjtu/coformer)] |
-|         |                                                              |                                                              |
+ NeurIPS | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | [[paper](https://arxiv.org/pdf/2402.10635)] [[code](https://github.com/microsoft/SeqML/tree/main/ContiFormer)] 
+  ICDM   | Compatible Transformer for Irregularly Sampled Multivariate Time Series | [[paper](https://arxiv.org/pdf/2310.11022)] [[code](https://github.com/mediabrain-sjtu/coformer)] 
+         | Warpformer: A Multi-scale Modeling Approach for Irregular Clinical Time Series | [[paper](https://arxiv.org/pdf/2306.09368)] [[code](https://github.com/imjiawen/warpformer)] 
+ | Learning from Irregularly-Sampled Time Series: A Missing Data Perspective | [[paper](https://arxiv.org/pdf/2008.07599)] [[code](https://github.com/steveli/partial-encoder-decoder)] 
+ Arxiv | Modelling Irregularly Sampled Time Series Without Imputation | [[paper](https://arxiv.org/pdf/2309.08698)] 
 
 ### Year 2022
 
 Venue|Title|Link
 :----:|:-----:|:-----:
-| ICML  | Modeling Irregular Time Series with Continuous Recurrent Units | [[paper](https://proceedings.mlr.press/v162/schirmer22a/schirmer22a.pdf)] |
-|       |                                                              |                                                              |
-|       |                                                              |                                                              |
+ ICML  | Modeling Irregular Time Series with Continuous Recurrent Units | [[paper](https://proceedings.mlr.press/v162/schirmer22a/schirmer22a.pdf)] 
+ ICLR | Graph-Guided Network for Irregularly Sampled Multivariate Time Series | [[paper](https://arxiv.org/pdf/2110.05357)] [[code](https://github.com/mims-harvard/Raindrop)] 
+       |                                                              |                                                              
 
 ### Year 2021
 
 Venue|Title|Link
 :----:|:-----:|:-----:
-| NeurIPS | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation. | [[paper](https://arxiv.org/pdf/2107.03502)] [[code](https://github.com/ermongroup/csdi)] |
-|         |                                                              |                                                              |
-|         |                                                              |                                                              |
+ NeurIPS | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation. | [[paper](https://arxiv.org/pdf/2107.03502)] [[code](https://github.com/ermongroup/csdi)] 
+ NeurIPS | Neural Flows: Efficient Alternative to Neural ODEs | [[paper](https://arxiv.org/pdf/2110.13040)] [[code](https://github.com/mbilos/neural-flows-experiments)] 
+ ICLR | Multi-Time Attention Networks for Irregularly Sampled Time Series | [[paper](Multi-Time Attention Networks for Irregularly Sampled Time Series)] [[code](https://github.com/reml-lab/mTAN)] 
 
 ### Year 2020
 
 Venue|Title|Link
 :----:|:-----:|:-----:
-| ICML  | Learning from Irregularly-Sampled Time Series: A Missing Data Perspective | [[paper](https://proceedings.mlr.press/v119/li20k/li20k.pdf)] [[code](https://github.com/steveli/partial-encoder-decoder)] |
-|       |                                                              |                                                              |
-|       |                                                              |                                                              |
+ ICML  | Learning from Irregularly-Sampled Time Series: A Missing Data Perspective | [[paper](https://proceedings.mlr.press/v119/li20k/li20k.pdf)] [[code](https://github.com/steveli/partial-encoder-decoder)] 
+ AAAI | DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series | [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5440)] 
+ NeurIPS | Neural Controlled Differential Equations for Irregular Time Series | [[paper](https://arxiv.org/pdf/2005.08926)] [[code](https://github.com/patrick-kidger/NeuralCDE)] 
 
 ### Year 2019
 
 Venue|Title|Link
 :----:|:-----:|:-----:
-| ICLR  | Interpolation-Prediction Networks for Irregularly Sampled Time Series | [[paper](https://arxiv.org/pdf/1909.07782)] [[code](https://github.com/mlds-lab/interp-net)] |
-| Arxiv | Multi-resolution Networks For Flexible Irregular Time Series Modeling (Multi-FIT) |         [[paper](https://arxiv.org/pdf/1905.00125)]          |
-|       |                                                              |                                                              |
+ ICLR  | Interpolation-Prediction Networks for Irregularly Sampled Time Series | [[paper](https://arxiv.org/pdf/1909.07782)] [[code](https://github.com/mlds-lab/interp-net)] 
+ Arxiv | Multi-resolution Networks For Flexible Irregular Time Series Modeling (Multi-FIT) |         [[paper](https://arxiv.org/pdf/1905.00125)]          
+ NeurlPS | GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series | [[paper](https://arxiv.org/pdf/1905.12374)] [[code](https://github.com/edebrouwer/gru_ode_bayes)] 
+ NeurlPS | Latent ODEs for Irregularly-Sampled Time Series | [[paper](https://arxiv.org/pdf/1907.03907)] [[code](https://github.com/YuliaRubanova/latent_ode)] 
+ ICML | Set Functions for Time Series | [[paper](https://arxiv.org/pdf/1909.12064)] [[code](https://github.com/BorgwardtLab/Set_Functions_for_Time_Series)] 
 
 ### Others
 
 Year|Venue|Title|Link
 :-----:|:----:|:-----:|:-----:
-| 2018 | NeurIPS | BRITS: Bidirectional Recurrent Imputation for Time Series | [[paper](https://arxiv.org/abs/1805.10572)] [[code](https://github.com/caow13/BRITS)] |
-|      |         |                                                           |                                                              |
-|      |         |                                                           |                                                              |
+ 2018 | NeurIPS | BRITS: Bidirectional Recurrent Imputation for Time Series | [[paper](https://arxiv.org/abs/1805.10572)] [[code](https://github.com/caow13/BRITS)] 
+ 2018 | Scientific reports | Recurrent neural networks for multivariate time series with missing values | [[paper](https://www.nature.com/articles/s41598-018-24271-9)] [[code](https://github.com/zhiyongc/GRU-D)] 
+      |         |                                                           |                                                              
