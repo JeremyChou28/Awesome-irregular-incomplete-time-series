@@ -61,7 +61,7 @@ This is the paper list on irregular time series.
 | :-----: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
 | NeurIPS |       CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation.        |          [[paper](https://arxiv.org/pdf/2107.03502)] [[code](https://github.com/ermongroup/csdi)]           |
 | NeurIPS |                          Neural Flows: Efficient Alternative to Neural ODEs                           |  [[paper](https://arxiv.org/pdf/2110.13040)] [[code](https://github.com/mbilos/neural-flows-experiments)]   |
-|  ICLR   |                   Multi-Time Attention Networks for Irregularly Sampled Time Series                   |           [[paper](https://github.com/reml-lab/mTAN)] [[code](https://github.com/reml-lab/mTAN)]            |
+|  ICLR   |                   Multi-Time Attention Networks for Irregularly Sampled Time Series                   |           [[paper](https://arxiv.org/abs/2101.10318)] [[code](https://github.com/reml-lab/mTAN)]            |
 |  IJCAI  | TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data | [[paper](https://www.ijcai.org/proceedings/2021/0414.pdf)] [[code](https://github.com/SCXsunchenxi/TE-ESN)] |
 
 ### Year 2020
