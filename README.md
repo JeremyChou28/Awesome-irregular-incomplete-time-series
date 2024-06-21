@@ -27,7 +27,7 @@ This is the paper list on irregular time series.
 |  KDD  | Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network | [[paper](Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Network)] |
 | ICML  | Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach | [[paper](https://openreview.net/pdf?id=UZlMXUGI6e)] [[code](https://github.com/usail-hkust/t-PatchGNN)] |
 | ICLR  | Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data | [[paper](https://arxiv.org/pdf/2402.14989)] [[code](https://github.com/yongkyung-oh/stable-neural-sdes)] |
-|       | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values | [[paper](https://openreview.net/pdf?id=O9nZCwdGcG)] [[code](https://github.com/chenxiaodanhit/BiTGraph)] |
+| ICLR  | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values | [[paper](https://openreview.net/pdf?id=O9nZCwdGcG)] [[code](https://github.com/chenxiaodanhit/BiTGraph)] |
 
 ### Year 2023
 
