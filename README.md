@@ -1,12 +1,8 @@
-# Irregular Time Series Forecasting
+# Irregular Time Series
 
-This is the paper list on irregular time series forecasting.
+This is the paper list on irregular time series.
 
 ## What is Irregular Time Series?
-
-
-
-## Problem Definition of irregular time series forecasting
 
 
 
