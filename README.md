@@ -4,11 +4,12 @@ This is the paper list on irregular time series.
 
 ## What is Irregular Time Series?
 
-## Related Surveys
+## Related Surveys & Benchmark
 
 | Year |         Venue         |                                                            Title                                                            |                                                 Link                                                 |
 | :--: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
 | 2024 |         Arxiv         |                                       TSI-Bench: Benchmarking Time Series Imputation                                        | [[paper](https://arxiv.org/pdf/2406.12747)] [[code](https://github.com/WenjieDu/Awesome_Imputation)] |
+| 2024 |         Arxiv         |                        Benchmarking with MIMIC-IV, an irregular, spare clinical time series dataset                         |                             [[paper](https://arxiv.org/pdf/2401.15290)]                              |
 | 2024 |         Arxiv         |                               Deep Learning for Multivariate Time Series Imputation: A Survey                               | [[paper](https://arxiv.org/pdf/2402.04059)] [[code](https://github.com/wenjiedu/awesome_imputation)] |
 | 2023 |         Arxiv         | Continuous time recurrent neural networks: overview and application to forecasting blood glucose in the intensive care unit |                             [[paper](https://arxiv.org/pdf/2304.07025)]                              |
 | 2022 | ACM Computing Surveys |                         A Comprehensive Survey on Imputation of Missing Data in Internet of Things                          |                        [[paper](https://dl.acm.org/doi/pdf/10.1145/3533381)]                         |
@@ -20,6 +21,7 @@ This is the paper list on irregular time series.
 | Venue |                                                    Title                                                    |                                                              Link                                                               |
 | :---: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 | WSDM  |                Continuous-time Autoencoders for Regular and Irregular Time Series Imputation                |                                           [[paper](https://arxiv.org/pdf/2312.16581)]                                           |
+| Arxiv |  Marginalization Consistent Mixture of Separable Flows for Probabilistic Irregular Time Series Forecasting  |                                           [[paper](https://arxiv.org/pdf/2406.07246)]                                           |
 | Arxiv |                  Probabilistic Forecasting of Irregular Time Series via Conditional Flows                   |                                           [[paper](https://arxiv.org/pdf/2402.06293)]                                           |
 | Arxiv |                                  Continuous Temporal Domain Generalization                                  |                                           [[paper](https://arxiv.org/pdf/2405.16075)]                                           |
 | Arxiv |         Imputation with Inter-Series Information from Prototypes for Irregular Sampled Time Series          |                    [[paper](https://arxiv.org/pdf/2401.07249)] [[code](https://github.com/yzhhoward/prime)]                     |
@@ -48,21 +50,28 @@ This is the paper list on irregular time series.
 
 ### Year 2022
 
-|  Venue  |                                          Title                                           |                                                    Link                                                    |
-| :-----: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|  ICML   |              Modeling Irregular Time Series with Continuous Recurrent Units              |                 [[paper](https://proceedings.mlr.press/v162/schirmer22a/schirmer22a.pdf)]                  |
-|  ICLR   |          Graph-Guided Network for Irregularly Sampled Multivariate Time Series           |       [[paper](https://arxiv.org/pdf/2110.05357)] [[code](https://github.com/mims-harvard/Raindrop)]       |
-|  ICLR   |     Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks     | [[paper](https://arxiv.org/pdf/2108.00298)] [[code](https://github.com/Graph-Machine-Learning-Group/grin)] |
-| NeurIPS | Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations | [[paper](https://arxiv.org/pdf/2205.13479)] [[code](https://github.com/Graph-Machine-Learning-Group/spin)] |
+|  Venue  |                                              Title                                               |                                                       Link                                                        |
+| :-----: | :----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+|  ICML   |                  Modeling Irregular Time Series with Continuous Recurrent Units                  |                     [[paper](https://proceedings.mlr.press/v162/schirmer22a/schirmer22a.pdf)]                     |
+|  ICLR   |              Graph-Guided Network for Irregularly Sampled Multivariate Time Series               |          [[paper](https://arxiv.org/pdf/2110.05357)] [[code](https://github.com/mims-harvard/Raindrop)]           |
+|  ICLR   |         Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks         |    [[paper](https://arxiv.org/pdf/2108.00298)] [[code](https://github.com/Graph-Machine-Learning-Group/grin)]     |
+| NeurIPS |     Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations     |    [[paper](https://arxiv.org/pdf/2205.13479)] [[code](https://github.com/Graph-Machine-Learning-Group/spin)]     |
+|  TKDD   | Self-Supervised Transformer for Sparse and Irregularly Sampled Multivariate Clinical Time-Series |       [[paper](https://dl.acm.org/doi/pdf/10.1145/3516367)] [[code](https://github.com/sindhura97/STraTS)]        |
+|  CIKM   |                      Stop&Hop: Early Classification of Irregular Time Serie                      | [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557460)] [[code](https://github.com/thartvigsen/StopAndHop)] |
+| ICASSP  |      Bayesian Continual Imputation and Prediction For Irregularly Sampled Time Series Data       |                    [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746342)]                    |
 
 ### Year 2021
 
-|  Venue  |                                                 Title                                                 |                                                    Link                                                     |
-| :-----: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
-| NeurIPS |       CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation.        |          [[paper](https://arxiv.org/pdf/2107.03502)] [[code](https://github.com/ermongroup/csdi)]           |
-| NeurIPS |                          Neural Flows: Efficient Alternative to Neural ODEs                           |  [[paper](https://arxiv.org/pdf/2110.13040)] [[code](https://github.com/mbilos/neural-flows-experiments)]   |
-|  ICLR   |                   Multi-Time Attention Networks for Irregularly Sampled Time Series                   |           [[paper](https://arxiv.org/abs/2101.10318)] [[code](https://github.com/reml-lab/mTAN)]            |
-|  IJCAI  | TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data | [[paper](https://www.ijcai.org/proceedings/2021/0414.pdf)] [[code](https://github.com/SCXsunchenxi/TE-ESN)] |
+|  Venue  |                                                    Title                                                    |                                                         Link                                                         |
+| :-----: | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| NeurIPS |          CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation.           |               [[paper](https://arxiv.org/pdf/2107.03502)] [[code](https://github.com/ermongroup/csdi)]               |
+| NeurIPS |                             Neural Flows: Efficient Alternative to Neural ODEs                              |       [[paper](https://arxiv.org/pdf/2110.13040)] [[code](https://github.com/mbilos/neural-flows-experiments)]       |
+|  ICLR   |                      Multi-Time Attention Networks for Irregularly Sampled Time Series                      |                [[paper](https://arxiv.org/abs/2101.10318)] [[code](https://github.com/reml-lab/mTAN)]                |
+|  IJCAI  |    TE-ESN: Time Encoding Echo State Network for Prediction Based on Irregularly Sampled Time Series Data    |     [[paper](https://www.ijcai.org/proceedings/2021/0414.pdf)] [[code](https://github.com/SCXsunchenxi/TE-ESN)]      |
+|  CIKM   |      BiCMTS: Bidirectional Coupled Multivariate Learning of Irregular Time Series with Missing Values       |                            [[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482064)]                             |
+|  CIKM   | Improving Irregularly Sampled Time Series Learning with Time-Aware Dual-Attention Memory-Augmented Networks |                            [[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482079)]                             |
+|  ICDM   |              MERITS: Medication Recommendation for Chronic Disease with Irregular Time-Series               | [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679101)] [[code](https://github.com/im73/MERITS)] |
+|  ICDM   |          PIETS: Parallelised Irregularity Encoders for Forecasting with Heterogeneous Time-Series           |                     [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679151)]                      |
 
 ### Year 2020
 
@@ -85,8 +94,9 @@ This is the paper list on irregular time series.
 
 ### Others
 
-| Year |       Venue        |                                   Title                                    |                                                   Link                                                    |
-| :--: | :----------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-| 2018 |      NeurIPS       |         BRITS: Bidirectional Recurrent Imputation for Time Series          |           [[paper](https://arxiv.org/abs/1805.10572)] [[code](https://github.com/caow13/BRITS)]           |
-| 2018 | Scientific reports | Recurrent neural networks for multivariate time series with missing values | [[paper](https://www.nature.com/articles/s41598-018-24271-9)] [[code](https://github.com/zhiyongc/GRU-D)] |
-| 2017 |        KDD         |               Patient subtyping via time-aware lstm networks               |                       [[paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3097997)]                       |
+| Year |       Venue        |                                               Title                                               |                                                       Link                                                       |
+| :--: | :----------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+| 2018 |      NeurIPS       |                     BRITS: Bidirectional Recurrent Imputation for Time Series                     |              [[paper](https://arxiv.org/abs/1805.10572)] [[code](https://github.com/caow13/BRITS)]               |
+| 2018 | Scientific reports |            Recurrent neural networks for multivariate time series with missing values             |    [[paper](https://www.nature.com/articles/s41598-018-24271-9)] [[code](https://github.com/zhiyongc/GRU-D)]     |
+| 2017 |        KDD         |                          Patient subtyping via time-aware lstm networks                           |                          [[paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3097997)]                           |
+| 2016 |      NeurIPS       | A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification | [[paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/9c01802ddb981e6bcfbec0f0516b8e35-Paper.pdf)] |
