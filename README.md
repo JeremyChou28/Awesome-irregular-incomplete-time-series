@@ -1,9 +1,3 @@
-<head>
-  <script type="text/javascript" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
-</head>
-
 # Irregular Time Series
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -19,7 +13,7 @@ $$
 \mathcal{D}=\{(s_n,y_n)|n=1,\cdots,N\},
 $$
 
-where $s_n=\{[(t_i,x_i)]_{i=1}^{L_n}\}, x_i\in\mathbb{R}^d$, $N$ is the number of samples, $d$ is the number of variables, $L_n$ is the length of observations.
+where $s_n=\{[(t_i,x_i)]_{i=1}^{L_n}\}$, $x_i\in\mathbb{R}^d$, $N$ is the number of samples, $d$ is the number of variables, $L_n$ is the length of observations.
 For each variable, the time point list of observations $t_1, t_2, \cdots, t_{L_n}$ is irregular.
 
 **Irregular time series** vs **incomplete time series**:
