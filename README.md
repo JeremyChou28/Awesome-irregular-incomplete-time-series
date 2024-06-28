@@ -5,6 +5,10 @@
 
 This is the paper list on irregular time series.
 
+## ✅TODO
+
+- [ ] add a tag for the task type to each paper
+
 ## What is Irregular Time Series?
 
 An irregular time series can be represented as
