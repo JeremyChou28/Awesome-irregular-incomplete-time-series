@@ -8,7 +8,6 @@ This is the paper list on irregular time series.
 ## What is Irregular Time Series?
 
 An irregular time series can be represented as
-![](https://latex.codecogs.com/svg.download?%5Cinline%20%5Cdpi%7B300%7D%20%5Cmathcal%7BD%7D%3D%5C%7B%28s_n%2Cy_n%29%7Cn%3D1%2C%5Ccdots%2CN%5C%7D)
 ![](<http://latex.codecogs.com/svg.latex?\mathcal{D}={(s_n,y_n)|n=1,\cdots,N}>)
 
 where ![](<http://latex.codecogs.com/svg.latex?s_n={[(t_i,x_i)]_{i=1}^{L_n}}>), ![](http://latex.codecogs.com/svg.latex?x_i\in\mathbb{R}^d), ![](http://latex.codecogs.com/svg.latex?N) is the number of samples, ![](http://latex.codecogs.com/svg.latex?d) is the number of variables, ![](http://latex.codecogs.com/svg.latex?L_n) is the length of observations.
