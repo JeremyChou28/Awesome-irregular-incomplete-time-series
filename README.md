@@ -13,8 +13,7 @@ $$
 \mathcal{D}=\{(s_n,y_n)|n=1,\cdots,N\},
 $$
 
-where $$s_n=\{[(t_i,x_i)]_{i=1}^{L_n}\}, x_i\in\mathbb{R}^d,$$
-$N$ is the number of samples, $d$ is the number of variables, $L_n$ is the length of observations.
+where $s_n=\{[(t_i,x_i)]_{i=1}^{L_n}\}, x_i\in\mathbb{R}^d$, $N$ is the number of samples, $d$ is the number of variables, $L_n$ is the length of observations.
 For each variable, the time point list of observations $t_1, t_2, \cdots, t_{L_n}$ is irregular.
 
 **Irregular time series** vs **incomplete time series**:
@@ -25,13 +24,13 @@ Irregular time series usually refers to the irregular intervals between observat
 
 ## Related Surveys & Benchmark
 
-| Year |         Venue         |                                                            Title                                                            |                                  Type                                  |                                                 Link                                                 |
-| :--: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-| 2024 |         Arxiv         |                                       TSI-Bench: Benchmarking Time Series Imputation                                        | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) | [[paper](https://arxiv.org/pdf/2406.12747)] [[code](https://github.com/WenjieDu/Awesome_Imputation)] |
-| 2024 |         Arxiv         |                        Benchmarking with MIMIC-IV, an irregular, spare clinical time series dataset                         | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |                             [[paper](https://arxiv.org/pdf/2401.15290)]                              |
-| 2024 |         Arxiv         |                               Deep Learning for Multivariate Time Series Imputation: A Survey                               | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) | [[paper](https://arxiv.org/pdf/2402.04059)] [[code](https://github.com/wenjiedu/awesome_imputation)] |
-| 2023 |         Arxiv         | Continuous time recurrent neural networks: overview and application to forecasting blood glucose in the intensive care unit | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |                             [[paper](https://arxiv.org/pdf/2304.07025)]                              |
-| 2022 | ACM Computing Surveys |                         A Comprehensive Survey on Imputation of Missing Data in Internet of Things                          | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |                        [[paper](https://dl.acm.org/doi/pdf/10.1145/3533381)]                         |
+| Year |         Venue         |                                                            Title                                                            |                                                                       Type                                                                        |                                                 Link                                                 |
+| :--: | :-------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+| 2024 |         Arxiv         |                                       TSI-Bench: Benchmarking Time Series Imputation                                        | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | [[paper](https://arxiv.org/pdf/2406.12747)] [[code](https://github.com/WenjieDu/Awesome_Imputation)] |
+| 2024 |         Arxiv         |                        Benchmarking with MIMIC-IV, an irregular, spare clinical time series dataset                         |                                      ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue)                                       |                             [[paper](https://arxiv.org/pdf/2401.15290)]                              |
+| 2024 |         Arxiv         |                               Deep Learning for Multivariate Time Series Imputation: A Survey                               |                                    ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange)                                     | [[paper](https://arxiv.org/pdf/2402.04059)] [[code](https://github.com/wenjiedu/awesome_imputation)] |
+| 2023 |         Arxiv         | Continuous time recurrent neural networks: overview and application to forecasting blood glucose in the intensive care unit |                                    ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange)                                     |                             [[paper](https://arxiv.org/pdf/2304.07025)]                              |
+| 2022 | ACM Computing Surveys |                         A Comprehensive Survey on Imputation of Missing Data in Internet of Things                          |                                    ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange)                                     |                        [[paper](https://dl.acm.org/doi/pdf/10.1145/3533381)]                         |
 
 ## Paper List
 
