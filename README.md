@@ -12,10 +12,10 @@ This is the paper list on irregular time series.
 ## What is Irregular Time Series?
 
 An irregular time series can be represented as
-![](<http://latex.codecogs.com/svg.latex?\mathcal{D}={(s_n,y_n)|n=1,\cdots,N}>)
+![](<https://latex.codecogs.com/svg.image?\inline&space;\large&space;\bg{white}\mathcal{D}={(s_n,y_n)|n=1,\cdots,N}>)
 
-where ![](<http://latex.codecogs.com/svg.latex?s_n={[(t_i,x_i)]_{i=1}^{L_n}}>), ![](http://latex.codecogs.com/svg.latex?x_i\in\mathbb{R}^d), ![](http://latex.codecogs.com/svg.latex?N) is the number of samples, ![](http://latex.codecogs.com/svg.latex?d) is the number of variables, ![](http://latex.codecogs.com/svg.latex?L_n) is the length of observations.
-For each variable, the time point list of observations ![](http://latex.codecogs.com/svg.latex?t_1), ![](http://latex.codecogs.com/svg.latex?t_2), ![](http://latex.codecogs.com/svg.latex?\cdots), ![](http://latex.codecogs.com/svg.latex?t_{L_n}) is irregular.
+where ![](<https://latex.codecogs.com/svg.image?\inline&space;\large&space;\bg{white}s_n={[(t_i,x_i)]_{i=1}^{L_n}},x_i\in\mathbb{R}^d>), ![](http://latex.codecogs.com/svg.latex?N) is the number of samples, ![](http://latex.codecogs.com/svg.latex?d) is the number of variables, ![](http://latex.codecogs.com/svg.latex?L_n) is the length of observations.
+For each variable, the time point list of observations ![](https://latex.codecogs.com/svg.image?\inline&space;\large&space;\bg{white}t_1,t_2,\cdots,t_{L_n}) is irregular.
 
 **Irregular time series** vs **incomplete time series**:
 Irregular time series usually refers to the irregular intervals between observation time points, while incomplete time series usually refers to the presence of missing values in the observed regular time series.
