@@ -21,7 +21,7 @@ For each variable, the time point list of observations ![](https://latex.codecog
 **Irregular time series** vs **incomplete time series**:
 Irregular time series usually refers to the irregular intervals between observation time points, while incomplete time series usually refers to the presence of missing values in the observed regular time series.
 
-- ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue): irregular time series: observation/sampling times are irregular.
+- ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue): irregular time series: observation/sampling timestamps are irregular.
 - ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange): incomplete time series: regular time series with missing values.
 
 **Task type**: ![Forecasting](https://img.shields.io/badge/-Forecasting-red), ![Imputation](https://img.shields.io/badge/-Imputation-green), ![Classification](https://img.shields.io/badge/-Classification-yellow), ![AnomalyDetection](https://img.shields.io/badge/-AnomalyDetection-pink), ![Clustering](https://img.shields.io/badge/-Clustering-purple)
