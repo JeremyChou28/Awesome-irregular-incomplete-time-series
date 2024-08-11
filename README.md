@@ -2,7 +2,20 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-[TOC]
+
+<!-- TOC -->
+
+- [TODO](#todo)
+- [Definition: Irregular Time Series and Incomplete Time Series](#what-are-irregular-time-series-and-incomplete-time-series)
+- [Related Surveys and Benchmark](#related-surveys--benchmark)
+- [Paper List](#paper-list)
+  - [Year2024](#year-2024)
+  - [Year2023](#year-2023)
+  - [Year2022](#year-2022)
+  - [Year2021](#year-2021)
+  - [Year2020](#year-2020)
+  - [Year2019](#year-2019)
+  - [Others](#others)
 
 ## ✅TODO
 
