@@ -19,8 +19,7 @@
 
 ## ✅TODO
 
-- [ ] We will preprint a survey paper on arxiv in September.
-- [ ] We will open source a benchmark and a code library about deep irregular time series models in October.
+- [ ] We will preprint a survey paper on arxiv, open source a benchmark and a code library about deep irregular time series models in October.
 
 ## What are Irregular Time Series and Incomplete Time Series?
 
