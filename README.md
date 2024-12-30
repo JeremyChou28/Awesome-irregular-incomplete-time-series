@@ -9,6 +9,7 @@
 - [Definition: Irregular Time Series and Incomplete Time Series](#what-are-irregular-time-series-and-incomplete-time-series)
 - [Related Surveys and Benchmark](#related-surveys--benchmark)
 - [Paper List](#paper-list)
+  - [Year2025](#year-2025)
   - [Year2024](#year-2024)
   - [Year2023](#year-2023)
   - [Year2022](#year-2022)
@@ -59,6 +60,13 @@ Irregular time series usually refers to the irregular intervals between observat
 | 2020 |                     Arxiv                      |                              Time series data imputation: A survey on deep learning approaches                              |                                    ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange)                                     |                                         [[paper](https://arxiv.org/abs/2011.11347)]                                         |
 
 ## Paper List
+
+### Year 2025
+
+| Venue |                                              Title                                              |                                    Type                                    |                             Task                              |                                          Link                                           |
+| :---: | :---------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| AAAI  | TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis |   ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue)   | ![Forecasting](https://img.shields.io/badge/-Forecasting-red) |                       [[paper](https://arxiv.org/pdf/2412.12886)]                       |
+| AAAI  |  Graph Structure Learning for Spatial-Temporal Imputation: Adapting to Node and Feature Scales  | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Imputation](https://img.shields.io/badge/-Imputation-green) | [[paper](https://arxiv.org/pdf/2412.18535)] [[code](https://github.com/GSLI25/GSLI25/)] |
 
 ### Year 2024
 
