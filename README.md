@@ -5,7 +5,6 @@
 
 <!-- TOC -->
 
-- [TODO](#todo)
 - [Definition: Irregular Time Series and Incomplete Time Series](#what-are-irregular-time-series-and-incomplete-time-series)
 - [Related Surveys and Benchmark](#related-surveys--benchmark)
 - [Paper List](#paper-list)
