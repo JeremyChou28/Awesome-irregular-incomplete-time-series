@@ -18,10 +18,6 @@
   - [Year2019](#year-2019)
   - [Others](#others)
 
-## ✅TODO
-
-- [ ] We will preprint a survey paper on arxiv, open source a benchmark and a code library about deep irregular time series models in October.
-
 ## What are Irregular Time Series and Incomplete Time Series?
 
 An irregular time series can be represented as
