@@ -5,17 +5,18 @@
 
 <!-- TOC -->
 
-- [Definition: Irregular Time Series and Incomplete Time Series](#what-are-irregular-time-series-and-incomplete-time-series)
-- [Related Surveys and Benchmark](#related-surveys--benchmark)
-- [Paper List](#paper-list)
-  - [Year2025](#year-2025)
-  - [Year2024](#year-2024)
-  - [Year2023](#year-2023)
-  - [Year2022](#year-2022)
-  - [Year2021](#year-2021)
-  - [Year2020](#year-2020)
-  - [Year2019](#year-2019)
-  - [Others](#others)
+- [Awesome: Irregular Time Series, Incomplete Time Series](#awesome-irregular-time-series-incomplete-time-series)
+  - [What are Irregular Time Series and Incomplete Time Series?](#what-are-irregular-time-series-and-incomplete-time-series)
+  - [Related Surveys \& Benchmark](#related-surveys--benchmark)
+  - [Paper List](#paper-list)
+    - [Year 2025](#year-2025)
+    - [Year 2024](#year-2024)
+    - [Year 2023](#year-2023)
+    - [Year 2022](#year-2022)
+    - [Year 2021](#year-2021)
+    - [Year 2020](#year-2020)
+    - [Year 2019](#year-2019)
+    - [Others](#others)
 
 ## What are Irregular Time Series and Incomplete Time Series?
 
@@ -62,6 +63,8 @@ Irregular time series usually refers to the irregular intervals between observat
 
 | Venue |                            Title                             |                             Type                             |                             Task                             |                             Link                             |
 | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| NeurIPS  | Glocal Information Bottleneck for Time Series Imputation | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |    ![Imputation](https://img.shields.io/badge/-Imputation-green)    | [[paper](https://arxiv.org/pdf/2510.04910v1)] [[code](https://github.com/Muyiiiii/NeurIPS-25-Glocal-IB)]  |
+| NeurIPS  | A Diffusion Model for Regular Time Series Generation from Irregular Data with Completion and Masking | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |    ![Imputation](https://img.shields.io/badge/-Imputation-green)    | [[paper](https://arxiv.org/pdf/2510.06699)] [[code](https://github.com/azencot-group/ImagenI2R)]  |
 | ICML  | HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |    ![Forecasting](https://img.shields.io/badge/-Forecasting-red)    | [[paper](https://arxiv.org/pdf/2505.17431)] [[code](https://github.com/qianlima-lab/PyOmniTS)]  |
 | ICML  | IMTS is Worth Time × Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |    ![Forecasting](https://img.shields.io/badge/-Forecasting-red)    | [[paper](https://arxiv.org/pdf/2505.22815)] [[code](https://github.com/WHU-HZY/VIMTS)]  |
 | ICML  | Hi-Patch: Hierarchical Patch GNN for Irregular Multivariate Time Series | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |    ![Forecasting](https://img.shields.io/badge/-Forecasting-red)    | [[paper](https://openreview.net/pdf/136b16687ec7664a6402cdd13cde02c53e6eb6a3.pdf)] [[code](https://github.com/qianlima-lab/Hi-Patch)] |
@@ -98,6 +101,7 @@ Irregular time series usually refers to the irregular intervals between observat
 |                KDD                | MTM: A Multi-Scale Token Mixing Transformer for Irregular Multivariate Time Series Classification | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) | ![Classification](https://img.shields.io/badge/-Classification-yellow) |         [[paper](https://dl.acm.org/doi/10.1145/3711896.3737058)]        |
 |                KDD                | Imputation via Domain Adaptation: Rethinking Variable Subset Forecasting from Knowledge Transfer | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Imputation](https://img.shields.io/badge/-Imputation-green) |         [[paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737007)] [[code](https://github.com/liangrc800/vida-vsf)]        |
 |                 ACM MM                | Spatial Imputation Drives Cross-Domain Alignment for EEG Classification | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Classification](https://img.shields.io/badge/-Classification-yellow) |         [[paper](https://arxiv.org/pdf/2508.03437v1)]        |
+| VLDB  | DIM-SUM: Dynamic IMputation for Smart Utility Management | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |   ![Imputation](https://img.shields.io/badge/-Imputation-green) | [[paper](https://arxiv.org/pdf/2506.20023v1)]  |
 |                 CIKM                | STA-GANN: A Valid and Generalizable Spatio-Temporal Kriging Approach | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Kriging](https://img.shields.io/badge/-Kriging-gold) |         [[paper](https://arxiv.org/pdf/2508.16161)] [[code](https://github.com/blisky-li/STAGANN)]        |
 |                 CIKM                | OASIS: Harnessing Diffusion Adversarial Network for Ocean Salinity Imputation using Sparse Drifter Trajectories | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Kriging](https://img.shields.io/badge/-Kriging-gold) |         [[paper](https://arxiv.org/pdf/2508.21570)] [[code](https://github.com/yfeng77/OASIS)]        |
 | TITS  | Sequence-to-Sequence Traffic Missing Data Imputation via Self-Supervised Contrastive Learning | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |   ![Imputation](https://img.shields.io/badge/-Imputation-green)    | [[paper](https://ieeexplore.ieee.org/abstract/document/10992259)]   |
@@ -111,7 +115,6 @@ Irregular time series usually refers to the irregular intervals between observat
 | Arxiv  | Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |   ![Forecasting](https://img.shields.io/badge/-Forecasting-red)  | [[paper](https://arxiv.org/pdf/2505.11250v1)]  |
 | Arxiv  | DeNOTS: Stable Deep Neural ODEs for Time Series | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |   ![Forecasting](https://img.shields.io/badge/-Forecasting-red)  | [[paper](https://arxiv.org/pdf/2408.08055v3)]  |
 | Arxiv  | CoIFNet: A Unified Framework for Multivariate Time Series Forecasting with Missing Values | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |   ![Forecasting](https://img.shields.io/badge/-Forecasting-red)  | [[paper](https://www.arxiv.org/pdf/2506.13064)] [[code](https://github.com/KaiTang-eng/CoIFNet)]  |
-| Arxiv  | DIM-SUM: Dynamic IMputation for Smart Utility Management | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |   ![Imputation](https://img.shields.io/badge/-Imputation-green) | [[paper](https://arxiv.org/pdf/2506.20023v1)]  |
 | Arxiv  | GeoMAE: Masking Representation Learning for Spatio-Temporal Graph Forecasting with Missing Values | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |   ![Forecasting](https://img.shields.io/badge/-Forecasting-red) | [[paper](https://arxiv.org/pdf/2508.14083)]  |
 | Arxiv  | STDiff: A State Transition Diffusion Framework for Time Series Imputation in Industrial Systems | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |   ![Imputation](https://img.shields.io/badge/-Imputation-green) | [[paper](https://arxiv.org/pdf/2508.19011v2)]  |
 
