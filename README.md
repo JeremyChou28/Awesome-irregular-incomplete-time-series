@@ -9,6 +9,7 @@
   - [What are Irregular Time Series and Incomplete Time Series?](#what-are-irregular-time-series-and-incomplete-time-series)
   - [Related Surveys \& Benchmark](#related-surveys--benchmark)
   - [Paper List](#paper-list)
+    - [Year 2026](#year-2026)
     - [Year 2025](#year-2025)
     - [Year 2024](#year-2024)
     - [Year 2023](#year-2023)
@@ -59,6 +60,12 @@ Irregular time series usually refers to the irregular intervals between observat
 
 ## Paper List
 
+### Year 2026
+
+| Venue |                            Title                             |                             Type                             |                             Task                             |                             Link                             |
+| :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| AAAI  | Beyond Observations: Reconstruction Error-Guided Irregularly Sampled Time Series Representation Learning | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |    ![Forecasting](https://img.shields.io/badge/-Forecasting-red) ![Imputation](https://img.shields.io/badge/-Imputation-green) ![Classification](https://img.shields.io/badge/-Classification-yellow)   | [[paper](https://arxiv.org/pdf/2511.06854v1)]   |
+
 ### Year 2025
 
 | Venue |                            Title                             |                             Type                             |                             Task                             |                             Link                             |
@@ -102,6 +109,7 @@ Irregular time series usually refers to the irregular intervals between observat
 |                KDD                | Imputation via Domain Adaptation: Rethinking Variable Subset Forecasting from Knowledge Transfer | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Imputation](https://img.shields.io/badge/-Imputation-green) |         [[paper](https://dl.acm.org/doi/abs/10.1145/3711896.3737007)] [[code](https://github.com/liangrc800/vida-vsf)]        |
 |                 ACM MM                | Spatial Imputation Drives Cross-Domain Alignment for EEG Classification | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Classification](https://img.shields.io/badge/-Classification-yellow) |         [[paper](https://arxiv.org/pdf/2508.03437v1)]        |
 | VLDB  | DIM-SUM: Dynamic IMputation for Smart Utility Management | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |   ![Imputation](https://img.shields.io/badge/-Imputation-green) | [[paper](https://arxiv.org/pdf/2506.20023v1)]  |
+|                 CIKM                | Spatio-Temporal Forecasting under Open-World Missingness with Adaptive Mixture-of-Experts | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Forecasting](https://img.shields.io/badge/-Forecasting-red) |         [[paper](https://dl.acm.org/doi/abs/10.1145/3746252.3761403)]        |
 |                 CIKM                | STA-GANN: A Valid and Generalizable Spatio-Temporal Kriging Approach | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Kriging](https://img.shields.io/badge/-Kriging-gold) |         [[paper](https://arxiv.org/pdf/2508.16161)] [[code](https://github.com/blisky-li/STAGANN)]        |
 |                 CIKM                | OASIS: Harnessing Diffusion Adversarial Network for Ocean Salinity Imputation using Sparse Drifter Trajectories | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) | ![Kriging](https://img.shields.io/badge/-Kriging-gold) |         [[paper](https://arxiv.org/pdf/2508.21570)] [[code](https://github.com/yfeng77/OASIS)]        |
 | TITS  | Sequence-to-Sequence Traffic Missing Data Imputation via Self-Supervised Contrastive Learning | ![Incomplete_time_series](https://img.shields.io/badge/-Incomplete-orange) |   ![Imputation](https://img.shields.io/badge/-Imputation-green)    | [[paper](https://ieeexplore.ieee.org/abstract/document/10992259)]   |
