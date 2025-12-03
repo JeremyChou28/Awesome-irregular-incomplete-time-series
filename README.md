@@ -65,8 +65,7 @@ Irregular time series usually refers to the irregular intervals between observat
 | Venue |                            Title                             |                             Type                             |                             Task                             |                             Link                             |
 | :---: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | AAAI  | Beyond Observations: Reconstruction Error-Guided Irregularly Sampled Time Series Representation Learning | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |    ![Forecasting](https://img.shields.io/badge/-Forecasting-red) ![Imputation](https://img.shields.io/badge/-Imputation-green) ![Classification](https://img.shields.io/badge/-Classification-yellow)   | [[paper](https://arxiv.org/pdf/2511.06854v1)]   |
-| AAAI  | Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting
- | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |    ![Forecasting](https://img.shields.io/badge/-Forecasting-red)    | [[paper](https://arxiv.org/pdf/2508.01971v2)] [[code](https://github.com/zhouziyu02/KAFNet)]   |
+| AAAI  | Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-blue) |    ![Forecasting](https://img.shields.io/badge/-Forecasting-red)    | [[paper](https://arxiv.org/pdf/2508.01971v2)] [[code](https://github.com/zhouziyu02/KAFNet)]   |
 
 ### Year 2025
 
